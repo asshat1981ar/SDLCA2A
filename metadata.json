@@ -1,0 +1,5 @@
+{
+  "name": "Autonomous SDLC Agent",
+  "description": "An AI-powered agent that takes a feature request, plans the technical approach, decomposes it into tasks, and generates code for implementation.",
+  "requestFramePermissions": []
+}
